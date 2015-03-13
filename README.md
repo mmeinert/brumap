@@ -15,7 +15,7 @@ To install, copy all files (except `README.md`) to a designated directory, modif
 
 For caching to work, you need a `cache` directory with writing rights.
 
-## Formats
+## Formats (to be modified)
 
 At the moment MapBBCode Share can import 11 file types and export 10. Writing a plugin for a new file format is easy: see examples in `formats` directory. Those are loaded automatically, you won't have to modify other scripts. Keep in mind this is not a universal convertor: [GPSBabel](http://www.gpsbabel.org/) is. This is not a GPS trace storage, and traces are simplified: we already have [GPSies](http://www.gpsies.com/) for full GPX downloads, elevation and speed profiles. MapBBCode Share goals are simple and outlined in the first section, and supported formats list should be kept short.
 
